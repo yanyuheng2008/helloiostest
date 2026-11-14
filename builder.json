@@ -1,0 +1,18 @@
+{
+  "project": "ll",
+  "platform": "ios",
+  "github": {
+    "owner": "yanyuheng2008",
+    "repo": "helloiostest"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {},
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
